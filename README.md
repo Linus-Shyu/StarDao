@@ -12,9 +12,9 @@
 git clone https://github.com/Linus-Shyu/StarDao.git
 ```
 
-2.导入入remix IDE
+2.导入remix IDE
 
-3.将_mint()中的钱包地址修改为你的钱包地址
+3.打开Token.sol将_mint()中的钱包地址修改为你的钱包地址
 
 ！！！（注意本人使用mate musk钱包）
 
@@ -22,11 +22,11 @@ git clone https://github.com/Linus-Shyu/StarDao.git
 _mint(0x86E9296912EFa0f3770d9e2b4F2593093a253254,max_token_number / 2);
 ```
 
-4.点击complile即可部署到mate musk测试网络。
+4.选择Token.sol点击complile即可部署到mate musk测试网络。
 
 ### 新奇点
 
 使用solidity开发，是目前提前为web3.0布局的语言
 
-虚拟货币，基于ether
+虚拟货币，基于 Ethereum
 
